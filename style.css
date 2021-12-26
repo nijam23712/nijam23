@@ -1,0 +1,52 @@
+body{
+    background-color: rgba(19, 23, 24, 0.514);
+}
+.main-part{
+    background-color:grey;
+   
+
+
+
+}
+.milla{
+    background-color: rgb(4, 211, 4);
+    margin-right: 31%;
+    background-position: center;
+    background-size: cover;
+    border: 4px solid rgb(209, 2, 2);
+    border-radius: 10px 10px;
+    
+
+}
+.milla, h1{
+    text-align: center;
+    color: seashell;
+    b
+
+}
+.milla, img{
+    width: 100%;
+    
+}
+.secend-part{
+   
+    background-color: yellow;
+    background-position: center;
+    text-align: center;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding:20px ;
+    
+    
+}
+.secend-part{
+    border-radius: 50px;
+}
+a{
+    width: 200px;
+    text-align: center;
+    color: black;
+    
+}
+
+
